@@ -66,3 +66,23 @@ If you are saving your progress on [freeCodeCamp.org](https://www.freecodecamp.o
 23.Each `primary key` column should follow the naming convention `table_name_id`. For example, the `moon` table should have a `primary key` column named `moon_id`.
 
 24.Each `foreign key` column should have the same name as the `column` it is referencing.
+
+
+## Result
+
+### Testing 
+
+
+
+![Screenshot 2023-08-16 040849](https://github.com/NandiniTandon21/Celestial_Database/assets/63950748/dffac12e-2cac-4972-94c9-d215c7a216ee)
+
+
+
+
+### Submission
+
+
+
+
+
+![Screenshot 2023-08-16 045037](https://github.com/NandiniTandon21/Celestial_Database/assets/63950748/a680d185-062e-492d-a718-26c2fa30a39c)
